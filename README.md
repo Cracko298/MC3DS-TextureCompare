@@ -12,4 +12,4 @@ python MC3DS-TextureCompare.py "baseatlas.3dst" "gunMod.3dst" "tntMimics.3dst"
 - Download it [Here](https://github.com/Cracko298/MC3DS-TextureCompare/releases/download/release-v1.0.0/MC3DS-TextureCompare.py)
 
 ## Images:
-![gunMod_out](https://github.com/Cracko298/MC3DS-TextureCompare/assets/78656905/99967058-ba54-4d0d-8d7e-e4cecf7b9993)
+![gunMod_out](https://github.com/Cracko298/MC3DS-TextureCompare/assets/78656905/117a8516-0618-489b-a9e6-da564489de91)
